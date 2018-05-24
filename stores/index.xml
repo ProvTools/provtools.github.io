@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stores on ProvTools</title>
+    <link>http://provtools.org/stores/</link>
+    <description>Recent content in Stores on ProvTools</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://provtools.org/stores/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CPL</title>
+      <link>http://provtools.org/stores/cpl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://provtools.org/stores/cpl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cplR</title>
+      <link>http://provtools.org/stores/cplr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://provtools.org/stores/cplr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

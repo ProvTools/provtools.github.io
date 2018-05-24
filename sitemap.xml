@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://provtools.org/stores/cpl/</loc>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/faq/provenance/</loc>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/analyzes/rclean/</loc>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/captures/provr/</loc>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/captures/camflow/</loc>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/stores/cplr/</loc>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/analyzes/encapsulator/</loc>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/analyzes/provdown/</loc>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/analyzes/provviz/</loc>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/analyzes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/captures/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/faq/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/stores/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://provtools.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
